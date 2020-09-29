@@ -4,9 +4,9 @@ Homework for the class 'Useful tools'
 
 Introduction to Python Course - Geekbrains
 
-## List of the tasks
+# List of the tasks
 
-### Task #1
+## Task #1
 
 #### Ru
 
@@ -18,7 +18,7 @@ Introduction to Python Course - Geekbrains
 Implement a script that should include the function of calculating the employee's salary. A formula must be used in the calculation: (output in hours * rate per hour) + bonus. 
 In order to perform the calculation for specific values, a script with parameters must be run.
 
-### Task #2
+## Task #2
 
 #### Ru
 
@@ -28,7 +28,7 @@ In order to perform the calculation for specific values, a script with parameter
 
 The list of numbers is presented. It is necessary to display the elements of the original list whose values are greater than the previous element.
 
-### Task #3
+## Task #3
 
 #### Ru
 
@@ -38,7 +38,7 @@ The list of numbers is presented. It is necessary to display the elements of the
 
 For numbers between 20 and 240 find numbers divisible by 20 or 21. It is necessary to solve the task in one line.
 
-### Task #4
+## Task #4
 
 #### Ru
 
@@ -50,7 +50,7 @@ For numbers between 20 and 240 find numbers divisible by 20 or 21. It is necessa
 The list of numbers is presented. Identify list items that do not have repetitions. Generate a summary array of numbers that meet the requirement. 
 Output the elements in the order in which they appear in the original list. Be sure to use a generator to complete the task.
 
-### Task #5
+## Task #5
 
 #### Ru
 
@@ -62,7 +62,7 @@ Output the elements in the order in which they appear in the original list. Be s
 Implement list formation using the ```range()``` function and generator capabilities. The list should include even numbers from 100 to 1000 (including borders). 
 The result of calculating the work of all list elements must be obtained.
 
-### Task #6
+## Task #6
 
 #### Ru
 
@@ -92,7 +92,7 @@ There must be a condition for its completion.
 For example, in the first task, we print integers starting with 3, and when the number 10 is reached, we end the cycle. 
 The second task also needs to stipulate the condition that the repetition of list elements will be terminated.
 
-### Task #7
+## Task #7
 
 #### Ru
 
