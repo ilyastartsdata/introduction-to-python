@@ -1,6 +1,6 @@
-# **Homework #4**
+# Homework #4
 
-Homework for the class 'Useful tools'
+Homework for the class **'Useful tools'**
 
 Introduction to Python Course - Geekbrains
 
