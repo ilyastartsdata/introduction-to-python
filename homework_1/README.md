@@ -1,4 +1,4 @@
-# Homework #1
+# Homework #1 :atom:
 
 Homework for the class **'Basics of Python'**
 
