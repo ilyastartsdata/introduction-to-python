@@ -68,7 +68,7 @@ The athlete runs daily. On the first day, his result was a kilometre. Every day 
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
 
 ## Source
 
