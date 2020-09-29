@@ -78,7 +78,7 @@ However, if a special character is entered instead of the number, the program is
 
 #### En
 
-Implement the ```int_func()``` function, which accepts a word from small Latin letters and returns the same word, but with a capital first letter. For example, ```print(int_func('text')) -> Text``.
+Implement the ```int_func()``` function, which accepts a word from small Latin letters and returns the same word, but with a capital first letter. For example, ```print(int_func('text')) -> Text```.
 
 Continue work on the task. A line from words separated by a space should enter the programme. Each word consists of lower case Latin letters. Print the source line, but each word should start with a capital letter. You should use the int_func() function, which was written earlier.
 
