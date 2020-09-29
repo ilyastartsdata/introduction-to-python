@@ -67,9 +67,9 @@ Ask the user for the values of the company's revenue and costs. Determine which 
 The athlete runs daily. On the first day, his result was a kilometre. Every day the athlete increased his result by 10% compared to the previous day. It is necessary to determine the number of the day for which the total result is at least b kilometres. The programme must accept the values of parameters a and b and output one natural number - the number of the day.
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## Source
+
 [Geekbrains](https://geekbrains.ru)
