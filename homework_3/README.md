@@ -1,12 +1,12 @@
-# Homework #3
+# Homework #3 :atom:
 
-Homework for the class 'Functions'
+Homework for the class **'Functions'**
 
 Introduction to Python Course - Geekbrains
 
-## List of the tasks
+# List of the tasks
 
-### Task #1
+## Task #1
 
 #### Ru
 
@@ -18,7 +18,7 @@ Introduction to Python Course - Geekbrains
 Implement a function that accepts two numbers (position arguments) and performs their division. 
 Request numbers from the user, provide for processing of the division situation by zero.
 
-### Task #2
+## Task #2
 
 #### Ru
 
@@ -30,7 +30,7 @@ Request numbers from the user, provide for processing of the division situation 
 Implement a function that accepts several parameters describing user data: first name, last name, year of birth, city of residence, email, telephone. 
 The function must accept parameters as named arguments. Implement the output of user data in one line.
 
-### Task #3
+## Task #3
 
 #### Ru
 
@@ -40,19 +40,19 @@ The function must accept parameters as named arguments. Implement the output of 
 
 Implement the function ```my_func()```, which accepts three position arguments and returns the sum of the largest two arguments.
 
-### Task #4
+## Task #4
 
 #### Ru
 
 Программа принимает действительное положительное число x и целое отрицательное число y. Необходимо выполнить возведение числа x в степень y. 
-Задание необходимо реализовать в виде функции ```my_func(x, y)``. При решении задания необходимо обойтись без встроенной функции возведения числа в степень.
+Задание необходимо реализовать в виде функции ```my_func(x, y)```. При решении задания необходимо обойтись без встроенной функции возведения числа в степень.
 
 #### En
 
 The programme accepts a valid positive number x and an integer negative number y. The number x to the extent of y must be erected. The task must be implemented as a function ```my_func(x, y)```. 
 When solving the task, the built-in function of raising the number to a degree must be dispensed with.
 
-### Task #5
+## Task #5
 
 #### Ru
 
@@ -66,7 +66,7 @@ The programme asks the user for a line of numbers separated by a space. When you
 The sum of the newly entered numbers will be added to the already calculated sum. 
 However, if a special character is entered instead of the number, the program is terminated. If a special character is entered after several numbers, the sum of these numbers must first be added to the sum already calculated and then the programme is terminated.
 
-### Task #6
+## Task #6
 
 #### Ru
 
@@ -82,10 +82,10 @@ Implement the ```int_func()``` function, which accepts a word from small Latin l
 
 Continue work on the task. A line from words separated by a space should enter the programme. Each word consists of lower case Latin letters. Print the source line, but each word should start with a capital letter. You should use the int_func() function, which was written earlier.
 
-## Contributing
+# Contributing
 
 Pull requests are welcome.
 
-## Source
+# Source
 
 [Geekbrains](https://geekbrains.ru)
