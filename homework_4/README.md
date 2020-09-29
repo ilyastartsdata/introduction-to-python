@@ -1,4 +1,4 @@
-# Homework #4
+# Homework #4 :atom:
 
 Homework for the class **'Useful tools'**
 
