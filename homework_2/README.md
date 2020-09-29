@@ -71,9 +71,9 @@ Implement the «Rating» structure, which is a non-aging set of natural numbers.
 Implement the «Goods» data structure. It should represent a list of motorcades. Each motorcade stores information about an individual product. There should be two elements in the motorcade - the product number and the dictionary with parameters (product characteristics: name, price, quantity, unit of measurement). The structure must be formed programmatically, i.e. all data must be requested from the user.
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
 ## Source
+
 [Geekbrains](https://geekbrains.ru)
