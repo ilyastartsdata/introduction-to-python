@@ -6,7 +6,11 @@ Introduction to Python Course - Geekbrains
 
 ## List of the tasks
 
-### Task
+### Task #1
+
+#### Ru
+
+#### En
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
