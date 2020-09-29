@@ -1,12 +1,12 @@
-# Homework #2
+# Homework #2 :atom:
 
-Homework for the class 'Built-in types and operations with them'
+Homework for the class **'Built-in types and operations with them'**
 
 Introduction to Python Course - Geekbrains
 
-## List of the tasks
+# List of the tasks
 
-### Task #1
+## Task #1
 
 #### Ru
 
@@ -20,7 +20,7 @@ Create a list and fill it with elements of different data types.
 Implement a data type check script for each element. 
 Use the ```type()``` function to check the type. List elements can be specified explicitly in the program, rather than being requested from the user.
 
-### Task #2
+## Task #2
 
 #### Ru
 
@@ -30,7 +30,7 @@ Use the ```type()``` function to check the type. List elements can be specified 
 
 For the list, the values of the neighbouring elements are exchanged, i.e. the values of the elements are exchanged with indices 0 and 1, 2 and 3, etc. If the number of elements is odd, keep the last element in its place. The ```input()``` function must be used to fill in the list of elements.
 
-### Task #3
+## Task #3
 
 #### Ru
 
@@ -40,7 +40,7 @@ For the list, the values of the neighbouring elements are exchanged, i.e. the va
 
 The user enters the month as a whole number from 1 to 12. Notify what time of year the month refers to (winter, spring, summer, autumn). Write the solutions via the ```list``` and via ```dict```.
 
-### Task #4
+## Task #4
 
 #### Ru
 
@@ -50,7 +50,7 @@ The user enters the month as a whole number from 1 to 12. Notify what time of ye
 
 The user enters a line of several words separated by spaces. Print each word from a new line. The rows must be numbered. If the word is long, only the first 10 letters of the word should be printed.
 
-### Task #5
+## Task #5
 
 #### Ru
 
@@ -60,7 +60,7 @@ The user enters a line of several words separated by spaces. Print each word fro
 
 Implement the «Rating» structure, which is a non-aging set of natural numbers. A new element of the rating should be requested from the user. If there are elements with the same values in the Rating, the new element with the same value must be placed after them.
 
-### Task #6
+## Task #6
 
 #### Ru
 
@@ -70,10 +70,10 @@ Implement the «Rating» structure, which is a non-aging set of natural numbers.
 
 Implement the «Goods» data structure. It should represent a list of motorcades. Each motorcade stores information about an individual product. There should be two elements in the motorcade - the product number and the dictionary with parameters (product characteristics: name, price, quantity, unit of measurement). The structure must be formed programmatically, i.e. all data must be requested from the user.
 
-## Contributing
+# Contributing
 
 Pull requests are welcome.
 
-## Source
+# Source
 
 [Geekbrains](https://geekbrains.ru)
