@@ -1,1 +1,1 @@
-![Geekbrains Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbhags.ru%2Fcompanies%2Fgeekbrains&psig=AOvVaw2Bx0cixeA3rtvVZrUJytWc&ust=1601579984303000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCr88XMkewCFQAAAAAdAAAAABAJ)
+![Geekbrains Logo](https://github.com/ilyastartsdata/introductiontopython/blob/master/gb.png)
