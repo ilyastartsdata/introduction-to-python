@@ -4,7 +4,7 @@
 
 > Course from Geekbrains University
 
-About Geekbrains: We teach people to master programming, web design and marketing from the ground up. We conduct online courses with internships and free master classes, develop the community, cooperate with employment companies and continuously test new methods to improve the effectiveness of learning.
+> About Geekbrains: We teach people to master programming, web design and marketing from the ground up. We conduct online courses with internships and free master classes, develop the community, cooperate with employment companies and continuously test new methods to improve the effectiveness of learning.
 
 ## List of topics
 
@@ -22,7 +22,7 @@ About Geekbrains: We teach people to master programming, web design and marketin
 A Homebrew package manager can be used to install Python 3 on MasOS.
 
   1. Go to brew.sh, select the start download code for Install Homebrew, then press Cmd+C to copy it to the clipboard.
-  2. Open the Terminal.app window, insert the Homebrew start load code, then press Enter. The Homebrew installation will start and will be completed in a few minutes.  
+  2. Open the Terminal.app window, insert the Homebrew start load code, then press Enter. The Homebrew installation will start and to be completed in a few minutes.  
   3. When the installation is complete, confirm the request "The software has been installed".
   4. Go back to the terminal, press Enter to continue the installation of Homebrew.
   5. Upon request from Homebrew specify a password to complete the installation and press Enter.
