@@ -18,9 +18,7 @@ Introduction to Python Course - Geekbrains
 
 Implement the Matrix class (matrix). Ensure that the class constructor (method ```__init__()```) is overloaded and must receive data (list of lists) to form the matrix.
 The next step is to implement an overload of the method ```__str__()``` to output the matrix in its usual form.
-The next step is to implement the method overload ```__add__()`` to implement the operation of adding two Matrix objects (two matrices). The result of the addition should be a new matrix.
-
-Translated with www.DeepL.com/Translator (free version)
+The next step is to implement the method overload ```__add__()``` to implement the operation of adding two Matrix objects (two matrices). The result of the addition should be a new matrix.
 
 ## Task #2
 
@@ -45,7 +43,7 @@ Implement the overall fabric consumption calculation. Check the knowledge gained
 #### Ru
 
 Реализовать программу работы с органическими клетками. Необходимо создать класс Клетка. В его конструкторе инициализировать параметр, соответствующий количеству клеток (целое число). 
-В классе должны быть реализованы методы перегрузки арифметических операторов: сложение (```__add__()```), вычитание (```__sub__()```), умножение (```__mul__()```), деление (```__truediv__()``).
+В классе должны быть реализованы методы перегрузки арифметических операторов: сложение (```__add__()```), вычитание (```__sub__()```), умножение (```__mul__()```), деление (```__truediv__()```).
 Данные методы должны применяться только к клеткам и выполнять увеличение, уменьшение, умножение и обычное (не целочисленное) деление клеток, соответственно. В методе деления должно осуществляться округление значения до целого числа.
 
 Сложение. Объединение двух клеток. При этом число ячеек общей клетки должно равняться сумме ячеек исходных двух клеток.
@@ -67,7 +65,7 @@ Implement the overall fabric consumption calculation. Check the knowledge gained
 #### En
 
 Implement the programme of work with organic cells. It is necessary to create a Cell class. In its designer, initialise the parameter corresponding to the number of cells (whole number). 
-Methods of overloading arithmetic operators should be implemented in the class: addition (```__add__()```), subtraction (```__sub__()```), multiplication (```__mul__()```), division (```__truediv__()``).
+Methods of overloading arithmetic operators should be implemented in the class: addition (```__add__()```), subtraction (```__sub__()```), multiplication (```__mul__()```), division (```__truediv__()```).
 These methods should only be applied to cells and perform magnification, reduction, multiplication and normal (not integer) division of cells, respectively. In the division method, the value must be rounded to the whole number.
 
 Folding. Combination of two cells. The number of cells of a common cell must be equal to the sum of cells of the original two cells.
@@ -84,7 +82,7 @@ The method must return a line of the view ```*****\n*****\n*****...``` where the
 
 For example, the number of cells in a row is 12 and the number of cells in a row is 5. Then the ```make_order()``` method will return the row: ```*****\n*****\n**```.
 
-Or, the number of cells in a row is 15, the number of cells in a row is 5. Then the method ```make_order()`` will return a line: ```*****\n*****\n*****```.
+Or, the number of cells in a row is 15, the number of cells in a row is 5. Then the method ```make_order()``` will return a line: ```*****\n*****\n*****```.
 
 ## Contributing
 
