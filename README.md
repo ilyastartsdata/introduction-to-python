@@ -2,7 +2,7 @@
 
 # Introduction to Python
 
-> Course from Geekbrains University
+Course from Geekbrains University
 
 > About Geekbrains: We teach people to master programming, web design and marketing from the ground up. We conduct online courses with internships and free master classes, develop the community, cooperate with employment companies and continuously test new methods to improve the effectiveness of learning.
 
