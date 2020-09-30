@@ -22,11 +22,13 @@ Introduction to Python Course - Geekbrains
 Каждая карточка содержит 3 строки по 9 клеток. В каждой строке по 5 случайных цифр,
 расположенных по возрастанию. Все цифры в карточке уникальны. Пример карточки:
 
+```
 --------------------------
     9 43 62          74 90
  2    27    75 78    82
    41 56 63     76      86
 --------------------------
+```
 
 В игре 2 игрока: пользователь и компьютер. Каждому в начале выдается
 случайная карточка.
@@ -46,6 +48,7 @@ Introduction to Python Course - Geekbrains
 
 Пример одного хода:
 
+```
 Новый бочонок: 70 (осталось 76)
 ------ Ваша карточка -----
  6  7          49    57 58
@@ -58,6 +61,7 @@ Introduction to Python Course - Geekbrains
    15 20     -       76  -
 --------------------------
 Зачеркнуть цифру? (y/n)
+```
 
 #### En
 
@@ -73,11 +77,13 @@ The number of kegs is 90 (with numbers from 1 to 90).
 Each card contains 3 rows of 9 cells. Each line contains 5 random numbers,
 located in ascending order. All numbers on the card are unique. Example card:
 
+```
 --------------------------
     9 43 62          74 90
  2    27    75 78    82
    41 56 63     76      86
 --------------------------
+```
 
 The game has 2 players: the user and the computer. Each player is given at the beginning
 a random card.
@@ -95,8 +101,9 @@ If the player chose "continue":
 
 The first one to close all the numbers on his card wins.
 
-An example of one move:
+An example of one turn:
 
+```
 New keg: 70 (76 left).
 ------ Your card -----
  6  7          49    57 58
@@ -109,6 +116,7 @@ New keg: 70 (76 left).
    15 20     -       76  -
 --------------------------
 Strike a number? (y/n)
+```
 
 ## Contributing
 
